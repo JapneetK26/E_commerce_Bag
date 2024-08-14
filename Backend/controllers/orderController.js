@@ -48,9 +48,11 @@ const frontend_url="http://localhost:5173"
                 success_url: `${frontend_url}/verify?success=true&orderId=${newOrder._id}`,
                 cancel_url: `${frontend_url}/verify?success=false&orderId=${newOrder._id}`
             })
+            res.json({success:true,session_url:session.url})
         
     } catch (error) {
-        
+        console.log(error);
+        res.json({success:false,message:"Error"})
     }
 }
 
