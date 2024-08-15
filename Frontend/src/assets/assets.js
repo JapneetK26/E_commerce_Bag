@@ -285,18 +285,18 @@ export const bag_list = [
     },
     {
         _id: "23",
-        name: "Eco-Friendly Campus Bag",
+        name: "E-Friendly",
         image: bag_23,
         price: 10,
-        description: "An eco-friendly campus bag made from sustainable materials, perfect for environmentally conscious students.",
+        description: "An e-friendly bag made from sustainable materials.",
         category: "College Bags"
     },
     {
         _id: "24",
-        name: "Compact College Backpack",
+        name: "College Bag",
         image: bag_24,
         price: 12,
-        description: "A compact college backpack designed for students who prefer a lightweight and efficient carry solution.",
+        description: "A college bag designed for students who prefer a lightweight.",
         category: "College Bags"
     },
     {
