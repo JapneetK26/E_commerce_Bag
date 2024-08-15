@@ -253,34 +253,34 @@ export const bag_list = [
     },  
     {
         _id: "19",
-        name: "Urban Explorer Backpack",
+        name: "Stylish",
         image: bag_19,
         price: 20,
-        description: "A durable and stylish backpack designed for urban explorers, featuring multiple compartments for all your essentials.",
+        description: "A stylish backpack designed for feature multiple compartments.",
         category: "College Bags"
     },
     {
         _id: "20",
-        name: "Classic Campus Backpack",
+        name: "Campus Bag",
         image: bag_20,
         price: 15,
-        description: "A classic campus backpack with ample space for books, a laptop, and other essentials, perfect for college students.",
+        description: "A campus bag space for books,a laptop,perfect for college students.",
         category: "College Bags"
     },
     {
         _id: "21",
-        name: "Modern Student Backpack",
+        name: "Modern Bag",
         image: bag_21,
         price: 14,
-        description: "A modern student backpack designed to provide comfort and organization for your daily college routine.",
+        description: "A modern bag designed to provide comfort for your daily routine.",
         category: "College Bags"
     },
     {
         _id: "22",
-        name: "Tech-Savvy Backpack",
+        name: "Tech-Savvy",
         image: bag_22,
         price: 22,
-        description: "A tech-savvy backpack with padded compartments for your gadgets and ample space for your study materials.",
+        description: "A tech-savvy with padded compartments for your gadgets.",
         category: "College Bags"
     },
     {
