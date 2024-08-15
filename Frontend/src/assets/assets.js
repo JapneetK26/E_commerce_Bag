@@ -132,90 +132,90 @@ export const bag_list = [
         name: "Bookbag",
         image: bag_2,
         price: 300,
-        description: "A spacious and sturdy bookbag designed to carry .",
+        description: "A spacious and sturdy bookbag designed to carry.",
         category: "School Bag"
     }, {
         _id: "3",
-        name: "Backpack",
+        name: "Multimagic",
         image: bag_3,
         price: 16,
-        description: "A popular choice among students, this backpack offers comfort and functionality for school use.",
+        description: "This multimagic offers comfort and functionality for school use.",
         category: "School Bag"
     }, {
         _id: "4",
-        name: "Scholarly Backpack",
+        name: "Baby Bag",
         image: bag_4,
         price: 24,
-        description: "A scholarly backpack designed to keep your books and easily accessible.",
+        description: "A Baby bag designed to keep your books and easily accessible.",
         category: "School Bag"
     }, {
         _id: "5",
-        name: "Smart School Bag",
+        name: "Smart Bag",
         image: bag_5,
         price: 14,
-        description: "A smart and stylish school bag that combines durability with ample storage space.",
+        description: "A smart and stylish bag that combines durability space.",
         category: "School Bag"
     }, {
         _id: "6",
-        name: "Innovative School Bag",
+        name: "Pink Bag",
         image: bag_6,
         price: 12,
-        description: "An innovative school bag designed for modern students.",
+        description: "An Pink bag designed for modern students and for girls also.",
         category: "School Bag"
     }, {
         _id: "7",
-        name: "Adventure Seeker",
+        name: "Adventure",
         image: bag_7,
         price: 20,
-        description: "A versatile travel bag designed for adventure seekers.",
+        description: "A versatile travel bag for adventures to explore the space.",
         category: "Travel Bags"
     }, {
         _id: "8",
-        name: "Weekend Getaway",
+        name: "Multipack",
         image: bag_8,
-        price: 15,
-        description: "Perfect for weekend getaways, this travel bag is compact yet spacious.",
+        price: 25,
+        description: "Perfect for Multipack travel bag is compact yet spacious.",
         category: "Travel Bags"
     }, {
         _id: "9",
-        name: "Explorer Duffel",
+        name: "Explorer",
         image: bag_9,
         price: 14,
-        description: "A durable duffel bag featuring multiple compartments to keep your items organized.",
+        description: "A explorer bag feature multi compartment to keep items organized.",
         category: "Travel Bags"
     }, {
         _id: "10",
-        name: "Luxury Traveler",
+        name: "Bonus Travel",
         image: bag_10,
         price: 22,
-        description: "A luxury travel bag that perfect for the sophisticated traveler.",
+        description: "A bonus travel bag that perfect for sophisticated traveler.",
         category: "Travel Bags"
     }, {
         _id: "11",
-        name: "Compact Voyager",
+        name: "Compact Travel",
         image: bag_11,
         price: 10,
-        description: "A compact travel bag providing the right amount of space for your essentials",
+        description: "A compact travel provide the amount of space for your essentials.",
         category: "Travel Bags"
     }, {
         _id: "12",
         name: "Travel Pro",
         image: bag_12,
         price: 12,
-        description: "A professional travel bag designed for frequent travelers, durability on the go.",
+        description: "A travel bag designed for frequent travel, durability on the go.",
         category: "Travel Bags"
     },
     {
         _id: "13",
-        name: "FashionPouch",
+        name: "Trendy",
         image: bag_13,
         price: 12,
-        description: "A chic and trendy pouch perfect for carrying your essentials in style.",
+        description: "A Trendy pouch perfect for carrying your essentials in style.",
         category: "Purses"
     },
     {
         _id: "14",
-        name: "",
+        name: "Elegant",
         image: bag_14,
         price: 18,
         description: "An elegant clutch that adds a touch of sophistication to any outfit.",
@@ -229,7 +229,7 @@ export const bag_list = [
         category: "Purses"
     }, {
         _id: "16",
-        name: "",
+        name: "Vintage",
         image: bag_16,
         price: 24,
         description: "A vintage charm purse that combines classic design with modern functionality.",
@@ -245,10 +245,10 @@ export const bag_list = [
     }, 
     {
         _id: "18",
-        name: "Glamour Clutch Purse",
+        name: "Glamour",
         image: bag_18,
         price: 12,
-        description: "A glamour clutch purse perfect for evening events and special occasions.",
+        description: "A glamour purse perfect for evening events and special occasions.",
         category: "Purses"
     },  
     {
