@@ -301,42 +301,42 @@ export const bag_list = [
     },
     {
         _id: "25",
-        name: "Sleek Slim Wallet",
+        name: "Slim Wallet",
         image: bag_25,
         price: 12,
-        description: "A sleek and slim wallet that fits comfortably in your pocket while securely holding your essentials.",
+        description: "A slim wallet that fits comfortably in your pocket.",
         category: "Wallet"
     },
     {
         _id: "26",
-        name: "Classic Leather Wallet",
+        name: "Leather",
         image: bag_26,
         price: 18,
-        description: "A timeless classic leather wallet designed to provide durability and elegance.",
+        description: "A leather wallet design to provide durability and elegance.",
         category: "Wallet"
     },
     {
         _id: "27",
-        name: "Modern Bifold Wallet",
+        name: "Bifold",
         image: bag_27,
         price: 16,
-        description: "A modern bifold wallet with multiple compartments to keep your cards and cash organized.",
+        description: "A bifold wallet with compartment to keep your cards organized.",
         category: "Wallet"
     },
     {
         _id: "28",
-        name: "Executive Wallet",
+        name: "Executive",
         image: bag_28,
         price: 24,
-        description: "An executive wallet offering a sophisticated look with ample space for your essentials.",
+        description: "A executive wallet offer a good look with ample space .",
         category: "Wallet"
     },
     {
         _id: "29",
-        name: "Minimalist Card Holder",
+        name: "Card Holder",
         image: bag_29,
         price: 14,
-        description: "A minimalist card holder that combines functionality with a sleek design.",
+        description: "A card holder that combines functionality with a sleek design.",
         category: "Wallet"
     },
     {
@@ -371,7 +371,7 @@ export const bag_list = [
     },
     {
         _id: "34",
-        name: "Elegant Evening Bag",
+        name: "Evening Bag",
         image: bag_34,
         price: 15,
         description: "An elegant evening bag perfect for formal occasions.",
