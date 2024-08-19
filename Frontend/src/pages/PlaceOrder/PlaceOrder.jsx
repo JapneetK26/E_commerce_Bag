@@ -95,4 +95,4 @@ const placeOrder=async (event)=>{
   )
 }
 
-export default PlaceOrder;
+export default PlaceOrder

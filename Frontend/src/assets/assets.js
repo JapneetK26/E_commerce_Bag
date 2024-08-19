@@ -92,7 +92,7 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "School Bag",
+        menu_name: "School Bags",
         menu_image: menu_1
     },
     {
@@ -124,7 +124,7 @@ export const bag_list = [
         image: bag_1,
         price: 12,
         description: "A versatile and durable backpack perfect for daily use and travel.",
-        category: "School Bag"
+        category: "School Bags"
     },
     {
         _id: "2",
@@ -132,35 +132,35 @@ export const bag_list = [
         image: bag_2,
         price: 300,
         description: "A spacious and sturdy bookbag designed to carry.",
-        category: "School Bag"
+        category: "School Bags"
     }, {
         _id: "3",
         name: "Multimagic",
         image: bag_3,
         price: 16,
         description: "This multimagic offers comfort and functionality for school use.",
-        category: "School Bag"
+        category: "School Bags"
     }, {
         _id: "4",
         name: "Baby Bag",
         image: bag_4,
         price: 24,
         description: "A Baby bag designed to keep your books and easily accessible.",
-        category: "School Bag"
+        category: "School Bags"
     }, {
         _id: "5",
         name: "Smart Bag",
         image: bag_5,
         price: 14,
         description: "A smart and stylish bag that combines durability space.",
-        category: "School Bag"
+        category: "School Bags"
     }, {
         _id: "6",
         name: "Pink Bag",
         image: bag_6,
         price: 12,
         description: "An Pink bag designed for modern students and for girls also.",
-        category: "School Bag"
+        category: "School Bags"
     }, {
         _id: "7",
         name: "Adventure",
@@ -191,7 +191,7 @@ export const bag_list = [
         category: "Travel Bags"
     }, {
         _id: "11",
-        name: "Compact Travel",
+        name: "Compact",
         image: bag_11,
         price: 10,
         description: "A compact travel provide the amount of space for your essentials.",
@@ -217,21 +217,21 @@ export const bag_list = [
         name: "Elegant",
         image: bag_14,
         price: 18,
-        description: "An elegant clutch that adds a touch of sophistication to any outfit.",
+        description: "An elegant clutch that adds touch of sophistication to outfit.",
         category: "Purses"
     }, {
         _id: "15",
         name: "StyleMini",
         image: bag_15,
         price: 16,
-        description: "A stylish mini purse that is compact yet spacious enough to hold your essentials.",
+        description: "A stylish mini purse that is compact spacious enough to hold essentials.",
         category: "Purses"
     }, {
         _id: "16",
         name: "Vintage",
         image: bag_16,
         price: 24,
-        description: "A vintage charm purse that combines classic design with modern functionality.",
+        description: "A vintage purse that combine design with modern functionality.",
         category: "Purses"
     }, 
     {
@@ -239,7 +239,7 @@ export const bag_list = [
         name: "MysticPurse",
         image: bag_17,
         price: 14,
-        description: "A mystic purse that adds an element of mystery and allure to your look.",
+        description: "A mystic purse that adds a element of mystery, allure to your look.",
         category: "Purses"
     }, 
     {
@@ -263,7 +263,7 @@ export const bag_list = [
         name: "Campus Bag",
         image: bag_20,
         price: 15,
-        description: "A campus bag space for books,a laptop,perfect for college students.",
+        description: "A campus bag space for books,a perfect for college students.",
         category: "College Bags"
     },
     {
@@ -279,7 +279,7 @@ export const bag_list = [
         name: "Tech-Savvy",
         image: bag_22,
         price: 22,
-        description: "A tech-savvy with padded compartments for your gadgets.",
+        description: "A tech-savvy with padded compartment for gadgets and your essential.",
         category: "College Bags"
     },
     {
@@ -287,15 +287,15 @@ export const bag_list = [
         name: "E-Friendly",
         image: bag_23,
         price: 10,
-        description: "An e-friendly bag made from sustainable materials.",
+        description: "An e-friendly bag made from the sustainable materials.",
         category: "College Bags"
     },
     {
         _id: "24",
-        name: "College Bag",
+        name: "Classic Bag",
         image: bag_24,
         price: 12,
-        description: "A college bag designed for students who prefer a lightweight.",
+        description: "A classic bag designed for students and who prefer a lightweight.",
         category: "College Bags"
     },
     {
@@ -303,7 +303,7 @@ export const bag_list = [
         name: "Slim Wallet",
         image: bag_25,
         price: 12,
-        description: "A slim wallet that fits comfortably in your pocket.",
+        description: "A slim wallet that fits the comfortably in your pocket.",
         category: "Wallet"
     },
     {
@@ -327,7 +327,7 @@ export const bag_list = [
         name: "Executive",
         image: bag_28,
         price: 24,
-        description: "A executive wallet offer a good look with ample space .",
+        description: "A executive wallet offer a good look and with the ample space.",
         category: "Wallet"
     },
     {
@@ -340,17 +340,17 @@ export const bag_list = [
     },
     {
         _id: "30",
-        name: "Travel Wallet",
+        name: "Branded",
         image: bag_30,
-        price: 12,
-        description: "A travel wallet designed to keep your documents and essentials secure while on the go.",
+        price: 29,
+        description: "A branded wallet designed to keep your docs and essentials secure.",
         category: "Wallet"
     }, {
         _id: "31",
         name: "NightBag",
         image: bag_31,
         price: 20,
-        description: "A sleek and stylish bag perfect for evening outings.",
+        description: "A sleek and stylish bag perfect for the evening outings.",
         category: "Branded Bags"
     }, {
         _id: "32",
@@ -364,39 +364,39 @@ export const bag_list = [
         _id: "33",
         name: "Fashion Tote",
         image: bag_33,
-        price: 15,
-        description: "A trendy tote bag that complements any outfit.",
+        price: 16,
+        description: "A trendy tote branded bag that complements any outfit.",
         category: "Branded Bags"
     },
     {
         _id: "34",
-        name: "Evening Bag",
+        name: "Multi Bag",
         image: bag_34,
-        price: 15,
+        price: 21,
         description: "An elegant evening bag perfect for formal occasions.",
         category: "Branded Bags"
     },
     {
         _id: "35",
-        name: "Gucci",
+        name: "Gucci Bag",
         image: bag_35,
-        price: 15,
+        price: 28,
         description: "A luxurious Gucci bag for those who appreciate high fashion.",
         category: "Branded Bags"
     },
     {
         _id: "36",
-        name: "Leather Bag",
+        name: "WonderLook",
         image: bag_36,
-        price: 15,
-        description: "A premium leather bag with a timeless design.",
+        price: 25,
+        description: "A premium look bag with a timeless design and space.",
         category: "Branded Bags"
     },
     {
         _id: "37",
-        name: "Classic Satchel",
+        name: "Satchel",
         image: bag_37,
-        price: 15,
+        price: 27,
         description: "A classic satchel bag that blends style and functionality.",
         category: "Branded Bags"
     },
@@ -404,7 +404,7 @@ export const bag_list = [
         _id: "38",
         name: "GlamBag",
         image: bag_38,
-        price: 15,
+        price: 23,
         description: "A glamorous bag that adds a touch of sparkle to any outfit.",
         category: "Branded Bags"
     },
@@ -412,7 +412,7 @@ export const bag_list = [
         _id: "39",
         name: "Imported Bag",
         image: bag_39,
-        price: 15,
+        price: 26,
         description: "An imported bag perfect for carrying small essentials.",
         category: "Branded Bags"
     },
@@ -420,7 +420,7 @@ export const bag_list = [
         _id: "40",
         name: "Louis Vuitton",
         image: bag_40,
-        price: 15,
+        price: 29,
         description: "A premium Louis Vuitton bag for the discerning fashionista.",
         category: "Branded Bags"
     }
