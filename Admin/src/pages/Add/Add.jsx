@@ -47,7 +47,6 @@ const Add = ({url}) => {
     }
 
 
-
     return (
         <div className='add'>
             <form className="flex-col" onSubmit={onSubmitHandler}>

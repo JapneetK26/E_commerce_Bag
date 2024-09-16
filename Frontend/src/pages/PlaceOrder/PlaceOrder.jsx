@@ -39,7 +39,11 @@ const placeOrder=async (event)=>{
     items:orderItems,
     amount:getTotalCartAmount()+2,
   }
-  let response=await axios.post(url+"/api/order/place",orderData,{Headers:{token}});
+  // console.log("toiken front: ", token);
+  
+  let response=await axios.post(url+"/api/order/place",orderData,{headers:{token}});
+  console.log(response);
+  
   if(response.data.success){
     const {session_url}=response.data;
     window.location.replace(session_url);
@@ -88,7 +92,7 @@ const placeOrder=async (event)=>{
               <b>${getTotalCartAmount()===0?0:getTotalCartAmount() + 2}</b>
             </div>
           </div>
-          <button href="https://buy.stripe.com/test_7sI5mNduc3j21vq144" type='submit'>PROCEED TO PAYMENT</button>
+          <button type='submit'>PROCEED TO PAYMENT</button>
           </div>
       </div>
     </form>

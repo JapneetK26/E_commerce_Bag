@@ -18,7 +18,6 @@ const upload = multer({ storage: storage })
 bagRouter.post("/add", upload.single("image"), addBag)
 
 
-
 bagRouter.post("/add", upload.single("image"), addBag)
 bagRouter.get("/list",listBag)
 bagRouter.post("/remove",removeBag)

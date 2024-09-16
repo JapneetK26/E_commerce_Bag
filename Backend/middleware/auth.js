@@ -2,9 +2,13 @@ import jwt  from "jsonwebtoken"
 
 
 const authMiddlewear=async(req,res,next)=>{
+    // console.log(req);
+    
     const {token}=req.headers;
+    // console.log("token", token);
+    
     if(!token){
-        return res.json({success:false,message:"Not authorixed login again"})
+        return res.json({success:false,message:"Not authorized login again"})
     }
     try {
          const token_decoded=jwt.verify(token,process.env.JWT_SECRET)
